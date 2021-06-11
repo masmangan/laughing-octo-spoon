@@ -2,7 +2,7 @@
 /**
  * Escreva uma descrição da classe HelloGitHub aqui.
  * 
- * @author (seu nome) 
+ * @author Marco Mangan
  * @version (um número da versão ou uma data)
  */
 public class HelloGitHub
